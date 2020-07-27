@@ -1,0 +1,13 @@
+﻿  HashTable.h
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(74): error C2535: 'item::operator std::string(void)': member function already defined or declared
+  c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(25): note: see declaration of 'item::operator std::string'
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(74): error C2440: 'return': cannot convert from 'int' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(74): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  main.cpp
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(74): error C2535: 'item::operator std::string(void)': member function already defined or declared
+  c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(25): note: see declaration of 'item::operator std::string'
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(74): error C2440: 'return': cannot convert from 'int' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\item.h(74): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\chainedhashtable.h(5): warning C4005: 'MAX': macro redefinition
+  c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_10\hashtable.h(5): note: see previous definition of 'MAX'
+  Generating Code...
