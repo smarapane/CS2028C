@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_6\main.cpp(17): warning C4018: '>': signed/unsigned mismatch
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_6\main.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\smara\onedrive - university of cincinnati\cs2028c\lab_6\queue.h(48): warning C4715: 'Queue<Stack<char> >::Dequeue<Stack<char> >': not all control paths return a value
+  lab_6.vcxproj -> C:\Users\smara\OneDrive - University of Cincinnati\CS2028C\lab_6\Debug\lab_6.exe
